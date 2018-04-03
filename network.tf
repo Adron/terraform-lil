@@ -12,7 +12,6 @@ resource "aws_vpc" "environment-example-two" {
   }
 }
 
-
 resource "azurerm_resource_group" "azy_network" {
   location = "West US"
   name = "devresgrp"
