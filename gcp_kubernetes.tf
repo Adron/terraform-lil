@@ -1,10 +1,10 @@
 resource "google_container_cluster" "kubey" {
-  name = "kubeycluster"
-  zone = "us-west1-a"
+  name               = "kubeycluster"
+  zone               = "us-west1-a"
   initial_node_count = "1"
 
   additional_zones = [
-    "us-west1-b"
+    "us-west1-b",
   ]
 
   master_auth {
