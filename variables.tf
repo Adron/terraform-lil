@@ -5,6 +5,14 @@ variable network_name {
   description = "Just the network name for the Google Compute Platform."
 }
 
+variable new_value {
+
+}
+
+variable newmap {
+  type = "map"
+}
+
 variable gcp_ip_cidr_range {
   default = "10.0.0.0/16"
   type = "string"
@@ -26,3 +34,14 @@ variable subnet_names {
     subnet3 = "subnetthree"
   }
 }
+
+// Output variables
+
+output "first_output" {
+  value = "this is the value through execution."
+}
+
+output "aws_cidr_subnet1" {
+  value = "${aws_subnet.subnet1.cidr_block}"
+}
+
