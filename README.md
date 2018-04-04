@@ -2,8 +2,7 @@
 
 LinkedIn Learning Coursework.
 
-* master - all changes are stored here in the timeline/history of the commits.
-
+0. [master](https://github.com/Adron/terraform-lil) - all changes are stored here in the timeline/history of the commits.
 1. [terraform-hello-world](https://github.com/Adron/terraform-lil/tree/terraform-hello-world)
 2. [terraform-networks-subdomains](https://github.com/Adron/terraform-lil/tree/terraform-networks-subdomains)
 3. [terraform-google-instance-server](https://github.com/Adron/terraform-lil/tree/terraform-google-instance-server)
