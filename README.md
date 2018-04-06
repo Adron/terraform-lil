@@ -1,4 +1,4 @@
-# terraform-lil
+# Terraform LinkedIn Learning
 
 LinkedIn Learning Coursework.
 
