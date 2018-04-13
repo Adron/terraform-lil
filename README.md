@@ -1,4 +1,4 @@
-# terraform-lil
+# Terraform LinkedIn Learning
 
 LinkedIn Learning Coursework.
 
@@ -9,3 +9,5 @@ LinkedIn Learning Coursework.
 4. [terraform-aws-instance-server](https://github.com/Adron/terraform-lil/tree/terraform-aws-instance-server)
 5. [terraform-clusters](https://github.com/Adron/terraform-lil/tree/terraform-clusters)
 6. [terraform-cli-commands-destroy](https://github.com/Adron/terraform-lil/tree/terraform-cli-commands-destroy)
+7. [terraform-variables](https://github.com/Adron/terraform-lil/tree/terraform-variables)
+8. [terraform-input-output-variables](https://github.com/Adron/terraform-lil/tree/terraform-input-output-variables)
